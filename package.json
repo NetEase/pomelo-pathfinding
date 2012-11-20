@@ -1,0 +1,11 @@
+{
+  "name": "pomelo-pathfinding",
+  "version": "0.1.0",
+  "main": "./lib/pathfinding",
+  "author": {
+    "name": "XiaogangZhang",
+    "email": "zhang0925@gmail.com"
+  },
+  "dependencies": {
+  }
+}
